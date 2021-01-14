@@ -7,7 +7,7 @@ let bar = document.createElement("div");
 //Estilo Barrinha
 bar.style.height = "4px";
 bar.style.width = "0";
-bar.style.backgroundColor = "#130f40";
+bar.style.backgroundColor = "#8e44ad";
 bar.style.position = "fixed";
 bar.style.top = "0";
 bar.style.left = "0";
